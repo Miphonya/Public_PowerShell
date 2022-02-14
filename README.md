@@ -13,3 +13,8 @@ Vous trouverez ici tout type de code que j'ai créé dans PowerShell pour résou
 [JP] 🇯🇵
 
 ここでは、問題を解決するためにPowerShellで作成したあらゆる種類のコードを見つけることができますが、他の人を助けることができれば幸いです。 あなたはそれらを再利用することができますが、私を信用してください^^
+
+# Öffentliche_VBA
+[DE] 🇩🇪
+
+Hier finden Sie jede Art von Code, den ich in PowerShell erstellt habe, um meine Probleme zu lösen, der aber hoffentlich anderen Leuten helfen kann. Sie können sie wiederverwenden, aber schreiben Sie mir ^^
